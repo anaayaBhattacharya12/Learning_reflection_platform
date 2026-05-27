@@ -79,8 +79,8 @@
 <h2>Installation and Setup</h2>
 
 <h3>1. Clone the Repository</h3>
-<pre><code>git clone https://github.com/A-K-D-2000/LearningReflectionPlatform.git
-cd LearningReflectionPlatform</code></pre>
+<pre><code>git clone https://github.com/anaayaBhattacharya12/Learning_reflection_platform.git
+cd Learning_reflection_platform</code></pre>
 
 <h3>2. Install Dependencies</h3>
 
@@ -126,7 +126,7 @@ npm run dev</code></pre>
 
 <h2>Project Structure (after installing dependencies)</h2>
 
-<pre><code>LearningReflectionPlatform/
+<pre><code>Learning_reflection_platform/
 │
 ├── client/
 │   ├── node_modules/
