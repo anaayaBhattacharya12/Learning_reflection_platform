@@ -126,7 +126,7 @@ npm run dev</code></pre>
 
 <h2>Project Structure (after installing dependencies)</h2>
 
-<pre><code>Ekalavya-LearningPlatform/
+<pre><code>LearningReflectionPlatform/
 │
 ├── client/
 │   ├── node_modules/
