@@ -79,8 +79,8 @@
 <h2>Installation and Setup</h2>
 
 <h3>1. Clone the Repository</h3>
-<pre><code>git clone https://github.com/A-K-D-2000/Ekalavya-LearningPlatform.git
-cd Ekalavya-LearningPlatform</code></pre>
+<pre><code>git clone https://github.com/A-K-D-2000/LearningReflectionPlatform.git
+cd LearningReflectionPlatform</code></pre>
 
 <h3>2. Install Dependencies</h3>
 
